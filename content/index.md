@@ -1,7 +1,7 @@
 [[Summary]]
 # Contents
 ## Characters
-[[Isles-of-Ire-2/Characters|Characters]]
+[[Character List|Character List]]
 ## Locations
 [[Twilight Valley]]
 ## Sessions
