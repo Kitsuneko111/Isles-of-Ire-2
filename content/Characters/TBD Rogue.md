@@ -140,7 +140,7 @@ rMax: 5
 ```
 
 ## Habits
-*e.g. Likes to play with animals during their long rest shifts.*
+- *e.g. Likes to play with animals during their long rest shifts.*
 - 
 ## Enneagram
 ### Enneagram type descriptions [^1] 
