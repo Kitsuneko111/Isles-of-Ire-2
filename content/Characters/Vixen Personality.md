@@ -1,55 +1,80 @@
-**Class:** Rogue 1 - Soulknife
+**Class:** Rogue 1 - Soulknife (to be)
 **Race:** Shifter - Swiftstride (fox themed)
-**Background:** TBD
-**Alignment:** Good
+**Background:** Criminal (thief, assassin in emergencies)
+**Alignment:** Chaotic Neutral
+**Age:** 23
 
 *If you need help picking, check out [5e Personality Creator](https://www.kassoon.com/dnd/5e/personality-ideals-bonds-flaws/) and [5e Background Creator](https://www.kassoon.com/dnd/backstory-generator/)*
 # Traits
 ### Ideals
-**Prompt:** 
-
+**Prompt:** I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)
+- Evil eye everyone that isn't friend
+- Distrust everyone that isn't friend
+- Friendly mischief to friends
+- Extra loyal to guardian character
+- Others saw you as being different or strange, and so you had few companions.
 ### Aspirations
-
+- To please Traubon
+- To prove shifters aren't bad... or well, awful
+- To prove myself someone who doesn't need to commit crimes, or at least someone good enough to get paid well
 ### Flaws
-**Prompt:** 
-
+**Prompt:** When I see something valuable, I can't think about anything but how to steal it.
+- Sometimes I have to be pulled away from valuable stuff in favour of more sensible plans
+- If I don't get any shinies for too long I get grumpy
+- I might try and solicit gold or valuables instead of more useful information
 ### Connections
-**Prompt:** 
+**Prompt:** Something important was taken from me, and I aim to steal it back.
+- Parents: Dead at a young age
+- Siblings: None
+- Guardian: Traubon Steepdelve
+	- Dwarf
+	- Blacksmith
+	- Mute
+	- Outcast
+- Family heirloom?
+- Last memory of someone from childhood?
 # Events
 ## History
 #### Yesterday
-
+- I couldn't take him, no one could take him, I'm thankful for [ems char] for saving me
 #### A Week Ago
-
+- They said a bad man is coming and we have to be careful, I think I can take him
 #### A Month Ago
 
 #### A Year Ago
-
+- I now regularly steal during hard spots, or sometimes for fun if it's shiny enough
+- My English is getting better now I talk to more people
 #### A Decade Ago
-
-#### A Century Ago?
-
+- Realising we're poor and mistreated I steal some food and bring it home
+- Traubon is shocked and disappointed, but hunger takes over
+- Lasts a while and he gets another job or two
+- Once the money and food run out I take something from another poor person
+	- This goes badly and he makes us give it back
+#### Two Decades Ago
+- Parents died shortly after each other
+	- Due to being shifters
+- Traubon found at took me in
+- Realised I was likely a shifter
+- Took me away to Twilight Valley
 ## Goals
 #### Tomorrow
-
+- Set off, alive, for [quest]
 #### Next Week
 
 #### Next Month
-
+- 
 #### Next Year
-
+- 
 #### Next Decade
-
-#### Next Century?
-
-
+- 
 # Personality
-**Prompt:** 
+**Prompts:**
+- I don't pay attention to the risks in a situation. Never tell me the odds.
+- The best way to get me to do something is to tell me I can't do it.
 ## Prejudices
-*Not necessarily hate. For example:*
-- *Nobles of my family cannot lie*
-- *I would never trust info from a thief*
-
+- Rich people have too much moneys, they should be giving it out
+- People that judge me aren't even worth judging
+- Non shifters can't be trusted, they don't like our people
 ## Comfort Levels
 Superior/Inferior can mean skill or title
 Richer/Poorer can also be lifestyle, not actual wealth
@@ -58,18 +83,15 @@ A combination of experience and prejudice, how well they would treat someone of 
 ##### Table
 *-10 - 10*
 
-|          | Ally | Neutral | Enemy | Commoner | Merchant | Guard | Labourer | Tradesman | Friends | Family |
-| -------- | ---- | ------- | ----- | -------- | -------- | ----- | -------- | --------- | ------- | ------ |
-| Superior |      |         |       |          |          |       |          |           |         |        |
-| Equal    |      |         |       |          |          |       |          |           |         |        |
-| Inferior |      |         |       |          |          |       |          |           |         |        |
-|          |      |         |       |          |          |       |          |           |         |        |
-| Richer   |      |         |       |          |          |       |          |           |         |        |
-| Moderate |      |         |       |          |          |       |          |           |         |        |
-| Poorer   |      |         |       |          |          |       |          |           |         |        |
-|          |      |         |       |          |          |       |          |           |         |        |
-|          |      |         |       |          |          |       |          |           |         |        |
-|          |      |         |       |          |          |       |          |           |         |        |
+|          | Ally | Neutral | Enemy | Commoner | Merchant | Guard | Labourer | Tradesman | Thief | Friends | Family |
+| -------- | ---- | ------- | ----- | -------- | -------- | ----- | -------- | --------- | ----- | ------- | ------ |
+| Superior | 10   | 7       | -3    | 5        | -2       | -5    | 7        | 0         | 8     | 10      | 10     |
+| Equal    | 8    | 3       | -2    | 4        | 0        | -3    | 5        | 2         | 8     | 8       | 10     |
+| Inferior | 7    | 5       | -1    | 5        | 5        | -1    | 6        | 6         | 8     | 10      | 10     |
+|          |      |         |       |          |          |       |          |           |       |         |        |
+| Richer   | -6   | -7      | -9    |          |          |       |          |           |       |         |        |
+| Moderate | 6    | 3       | -2    |          |          |       |          |           |       |         |        |
+| Poorer   | 8    | 6       | 3     |          |          |       |          |           |       |         |        |
 ^interaction-table
 
 ##### Graph
@@ -126,8 +148,8 @@ Additionally, you might choose for a character to appear differently how they ac
 
 |          | Social Energy | Boldness | Thoughtfulness | Stability | Engagement |
 | -------- | ------------- | -------- | -------------- | --------- | ---------- |
-| Internal | 3             | 3        | 3              | 3         | 3          |
-| External |               |          |                |           |            |
+| Internal | 2             | 3        | 4              | 3         | 5          |
+| External | 3             | 5        | 2              | 1         | 4          |
 ^energy-table
 
 ##### Graph
@@ -137,6 +159,7 @@ id: energy-table
 layout: rows
 rMin: 0
 rMax: 5
+width: 60%
 ```
 
 ## Habits
