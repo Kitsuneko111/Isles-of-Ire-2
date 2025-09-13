@@ -25,3 +25,17 @@ The spellbook is a spell scroll of unseen servant
 *As the party leaves the festival we see runes written in Abyssal appear in the sky*
 
 *The runes open into a portal which pours deep black water straight out from the hells onto the town below*
+
+*As demons come down from the sky, they start killing the townspeople as we flee into Viv's church*
+
+*The party decides to fight the raiders that got to the church first, and to help Julius Goldheart*
+
+Result of the fight:
+All enemies dead
+Loot:
+Tattered Abyssal Note
+Longsword
+Trident +1
+72 gold coins
+
+> Em did not build a glass cannon, they built a glass
