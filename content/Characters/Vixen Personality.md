@@ -13,6 +13,9 @@
 - Friendly mischief to friends
 - Extra loyal to guardian character
 - Others saw you as being different or strange, and so you had few companions.
+**Prompt:** Adventurous. I don't like doing the same thing every day. I crave variety.
+- Gets bored easily
+- Tries to spontaneously suggest irrelevant things
 ### Aspirations
 - To please Traubon
 - To prove shifters aren't bad... or well, awful
@@ -22,8 +25,11 @@
 - Sometimes I have to be pulled away from valuable stuff in favour of more sensible plans
 - If I don't get any shinies for too long I get grumpy
 - I might try and solicit gold or valuables instead of more useful information
+**Prompt:** When given the choice between right or left I always choose left
+- No explanation needed
 ### Connections
 **Prompt:** Something important was taken from me, and I aim to steal it back.
+**Prompt:** I lost someone I care about, but I still see them in guilty visions, recurring dreams, or as a spirit.
 - Parents: Dead at a young age
 - Siblings: None
 - Guardian: Traubon Steepdelve
@@ -36,9 +42,8 @@
 # Events
 ## History
 #### Yesterday
-- I couldn't take him, no one could take him, I'm thankful for [ems char] for saving me
 #### A Week Ago
-- They said a bad man is coming and we have to be careful, I think I can take him
+
 #### A Month Ago
 
 #### A Year Ago
