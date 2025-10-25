@@ -1,0 +1,9 @@
+- Orb transports us
+- Talk to Aaron and Salem
+- Find letter discussing why what happened happened
+- Go to library
+- Vix actually takes the team to the bath house
+- Officers almost arrested us because there was a murder there and we were bloody
+- We talk our way out by going back to the shop
+- We go to the forest and utterly fail at making a camp
+- We were so distracted with the camp that enemies come for us
