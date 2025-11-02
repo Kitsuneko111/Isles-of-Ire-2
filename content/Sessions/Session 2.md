@@ -1,6 +1,13 @@
 - Orb transports us
 - Talk to Aaron and Salem
 - Find letter discussing why what happened happened
+- Options:
+	- Library
+		- Break in (paid entry)
+		- Lots of lore and history research
+	- Adventuring House
+		- Good place for work, rep and coin
+		- Probably don't break in
 - Go to library
 - Vix actually takes the team to the bath house
 - Officers almost arrested us because there was a murder there and we were bloody
