@@ -10,10 +10,13 @@ Combat 2 electric boogaloo
 
 
 
-Quest 1
+## Quest 1
 Client: Mistress Belsha of Belsha’s Buns Bakery 
 Location: Lowtown, Crescent Alley 
 Details: “There’s rats in my floor again. I need help dealing with the infestation" 
 Pay: 4 silver pieces each 
 Bonus: A week’s supply of baked cookies 
 Notes: “No fire spells. You set my bakery on fire, I set you on fire.”
+
+## Important Items
+[[The Trident]]

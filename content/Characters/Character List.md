@@ -1,6 +1,5 @@
-# Dementia (Ali)
+# Rosetta (Ali)
 **Barbarian**
-Caring but lots of memory loss
 # Vixen (Lana)
 **Rogue**
 Crazy, thief
