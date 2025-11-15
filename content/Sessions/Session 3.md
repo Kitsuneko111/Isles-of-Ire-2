@@ -3,6 +3,7 @@ Combat 2 electric boogaloo
 - Goblin wizard had a cool hat which is magic and lets devin do some cool stuff
 - When it died it set a tree on fire
 - Viv threw holy water on the tree and the fire screamed and went out
+- Viv also killed a sheep which is allowed because "the sheep isn't sentient"
 - Group decides adventuring guild is smarter
 - Talked to a crazy guy about death and ignarite breifly
 - Make it to THE SILVERPORT CHARTER OF ADVENTURERS – EST. 12 A.R.I. “Deeds Define the Name.” (current year is 76)

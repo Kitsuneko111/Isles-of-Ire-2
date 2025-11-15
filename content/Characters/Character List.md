@@ -1,17 +1,13 @@
 # Rosetta (Ali)
-**Barbarian**
+**Beserker Barbarian**
 # Vixen (Lana)
-**Rogue**
+**Soulknife Rogue**
 Crazy, thief
 [[Vixen Personality|Personality]]
 # Cleric (Em)
-**Cleric**
+**Life Cleric**
 Protector, healer
-# Paladin (Ash)
-**Paladin**
-
-# Wizard (Devin)
-**Wizard**
-
-# Bard (Esther)
-**Bard**
+# Warlock (Ash)
+**Hexblade Warlock**
+# Wizard (Mickey)
+**Scribe Wizard**
